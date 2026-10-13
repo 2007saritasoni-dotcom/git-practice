@@ -1,0 +1,7 @@
+# My Skills
+- Python
+- SQL
+- Git
+- GitHub
+
+
