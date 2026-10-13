@@ -6,3 +6,5 @@ My Git and GitHub practice project
 
 
 my name is sarita soni. i'm from khajuraho and my hobbies are sing a song and dancing
+# my favourite language
+ Python
